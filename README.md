@@ -1,7 +1,7 @@
-# Visualizing-Euler-Rotations-and-Gimbal-Lock
-Interactive Visualization of Euler angle rotation in different sequences along with translation
+# Visualizing-Cardon-Rotations-and-Gimbal-Lock
+Interactive Visualization of Cardon angle rotation in different sequences along with translation
 
-Note 1 : This model works only for euler rotations and not for Cardon rotations
+Note 1 : This model works only for Cardon rotations and not for Euler rotations
 
 Note 2 : Translations always happens w.r.t initial coordinates
 
