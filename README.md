@@ -10,3 +10,5 @@ Use '+' and '-' buttons for translating and rotating w.r.t different axeses
 Use 'makecopy' button to keep a history of cordinate systems.
 
 Gimbal lock can be visualized by adding second rotation to 90 degrees. 
+
+Run index.html to start the application
