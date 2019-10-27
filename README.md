@@ -12,3 +12,7 @@ Use 'makecopy' button to keep a history of cordinate systems.
 Gimbal lock can be visualized by adding second rotation to 90 degrees. 
 
 Run index.html to start the application
+
+Watch the video here
+
+https://youtu.be/-pltZ4Koa_Y
